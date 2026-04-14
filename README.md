@@ -1,5 +1,5 @@
 ![ReLiFSS Model Overview](over.png)
-# ReLiFSS: Abstract
+# Abstract
 While deep learning has achieved significant progress in medical image segmentation, its reliance on
 large-scale annotated data remains a major bottleneck in limited-sample scenarios. Few-shot medical
 image segmentation (FSMIS) aims to address this challenge by enabling effective segmentation under
