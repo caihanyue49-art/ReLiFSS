@@ -27,7 +27,7 @@ jupyter==1.0.0
 nibabel==2.5.1
 numpy==1.22.0
 opencv-python==4.5.5.62
-Pillow>=8.1.1
+Pillow=8.1.1
 sacred==0.8.2
 scikit-image==0.18.3
 SimpleITK==1.2.3
