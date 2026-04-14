@@ -15,3 +15,22 @@ the feature regions discriminative for the query image segmentation. Finally, th
 Matching Segmentation (MPMS) module fuses foreground and background information via a dualpathway mechanism, helping alleviate foreground-background imbalance. Extensive experiments on
 three public medical image datasets show that our method achieves competitive performance compared
 with recent FSMIS methods.
+
+## Dependencies
+
+Please install the following essential dependencies:
+
+```bash
+dcm2nii
+json5==0.8.5
+jupyter==1.0.0
+nibabel==2.5.1
+numpy==1.22.0
+opencv-python==4.5.5.62
+Pillow>=8.1.1
+sacred==0.8.2
+scikit-image==0.18.3
+SimpleITK==1.2.3
+torch==1.10.2
+torchvision==0.11.2
+tqdm==4.62.3
